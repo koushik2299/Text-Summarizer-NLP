@@ -3,7 +3,7 @@ import sys
 import logging 
 
 log_dir = "logs"
-logging_str = "[Koushik Mamuladu kadu :%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
+logging_str = "[Koushik Mamuladu kadu thopu turumu:%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
 
 log_filepath = os.path.join(log_dir,"continuous_logs.log")
 
